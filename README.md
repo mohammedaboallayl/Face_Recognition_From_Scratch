@@ -7,14 +7,14 @@
 
 
 ## paperloss function contour 
-<img src="./PaperLoss3D.png"/>
+<img src="./Paperloss3D.png"/>
 
 
 
 # Enhanced Loss function Visualization
 
 ## Enhanced Loss Contour
-<img src="./EnhancedLossContour.png"/>
+<img src="./EnhancedLosscontour.png"/>
 
 
 ## Enhanced Loss Function
