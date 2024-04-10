@@ -20,3 +20,15 @@
 ## Enhanced Loss Function
 
 <img src="./EnhancedLoss3D.png"/>
+
+
+
+# Some results 
+## Note
+   distance is the distance between person and camera but distance between embedding iam sure its less than 0.01 but i am using 0.3 as my threshold
+
+   <img src="./fig2.png"/>
+
+
+   ### img 2
+   <img src="./fig3.png"/>
